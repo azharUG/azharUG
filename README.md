@@ -9,9 +9,9 @@
 
 <div align="center">
 
-  🎲 Right now I'm enjoying game development in **Unity**
+  ⚛️ Currently making websites in **React**
   
-  🌱 I'm currently learning **React** 
+  ⚡️ Competitive Programmer
 
 </div>
 
