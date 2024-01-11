@@ -9,10 +9,6 @@
 
 <div align="center">
 
-  ⚛️ Currently making websites in **React**
-  
-  ⚡️ Competitive Programmer
-
 </div>
 
 <div align="center"> 
